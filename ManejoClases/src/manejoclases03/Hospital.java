@@ -34,5 +34,9 @@ public class Hospital {
     public double obtenerPresupuesto(){
         return presupuesto;
     }
+
+    void establecerNumeroCamas(double valor1) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
